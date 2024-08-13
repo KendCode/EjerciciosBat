@@ -1,0 +1,28 @@
+Nombre: kender mendoza 
+Apellido: mendoza 
+Dirección: zona cumaravi 
+Teléfono: 60539021 
+Sexo: masculino 
+Edad: 19 
+ 
+Nombre: luis 
+Apellido: mamani 
+Dirección: senkata 
+Teléfono: 444224 
+Sexo: masculino 
+Edad: 19 
+ 
+Nombre: Hola 
+Apellido: Mundo 
+Dirección: la paz 
+Teléfono: 605309021 
+Sexo: masculino 
+Edad: 34 
+ 
+Nombre: Ramiro 
+Apellido: Patzi 
+Dirección: Senkata 
+Teléfono: 9999999 
+Sexo: Masculino 
+Edad: 20 
+ 
